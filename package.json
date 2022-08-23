@@ -1,0 +1,15 @@
+{
+  "name": "webp-converter",
+  "version": "1.0.0",
+  "description": "Convert images to webp format",
+  "main": "run.js",
+  "scripts": {
+    "webp": "node run.js"
+  },
+  "repository": "https://github.com/RivoLink/webp-converter.git",
+  "author": "Rivo Link",
+  "license": "Apache License, Version 2.0",
+  "dependencies": {
+    "sharp": "^0.30.7"
+  }
+}
